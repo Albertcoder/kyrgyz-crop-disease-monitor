@@ -1,0 +1,1 @@
+# kyrgyz-crop-disease-monitor
